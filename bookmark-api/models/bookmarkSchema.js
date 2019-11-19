@@ -1,3 +1,4 @@
+// @ts-nocheck
 const mongoose = require("mongoose");
 
 const bookmarkSchema = mongoose.Schema({
