@@ -20,3 +20,15 @@
 .App-link {
   color: #09d3ac;
 }
+
+.bookmark {
+  font-size: 16px;
+  margin: 50px;
+  padding: 20px;
+  background: lightgrey;
+  border-radius: 12px;
+}
+
+.bookmark p{
+  line-height: 5px;
+}
